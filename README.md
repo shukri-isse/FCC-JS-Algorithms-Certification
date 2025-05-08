@@ -28,7 +28,7 @@ Welcome to my repository showcasing the projects I completed as part of the Free
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/shukri-isse/FCC-JS-Algorithms-Certification.git
+   git clone https://github.com/shukri-isse/FCC-JS-Algs-and-Data-Structures-Certification.git
 2. Navigate to each folder to view the associated JavaScript files.
 3. Open the HTML files in your browser to view the project output.
 
